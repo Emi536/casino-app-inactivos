@@ -18,7 +18,7 @@ seccion = st.sidebar.radio("Seleccioná una sección:", [
 # Conexión a Google Sheet
 def obtener_df_desde_sheet():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive.readonly"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("app-casino-456422-820c2f207c4b.json", scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name("credenciales.json", scope)
     client = gspread.authorize(creds)
     sheet = client.open_by_key("1kx4yZw-mvD0xlbOIGNMj2vb_WUM0uW5X6yWeoI3e0fw").worksheet("Fénix")
     data = sheet.get_all_records()
