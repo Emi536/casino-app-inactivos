@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "app-casino-456422",
+  "private_key_id": "de1addeba18e580c60996ac8af6ac59f4167b5a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCFMz3eL+Nu+5qx\ngjviqbh24yWTJ3FDylPgNgWvhv0mty07WSPD9DxYtPyG0uSyvXXd5z0yj8o0TH0C\nCzLdfeWn6sXMcSS/5jUOPNQy1ejPO/ZTt+woYgtJJwAfjYdDstdxtXDrqUy7l9Wy\nZY6IX7QhCWZcIq/W6pOfOyAwaMxyM+nqDREFjJOIgzQC8EgcupEege4acreFhZJm\nDQWld2RZXwY5/2unao1mbgchMg9TkhyiGrL7YRwJ0S+/CX4fw5My4nAHzRQyuaFw\n2tecH317EKp6LJfClRWduAFn5yEldULZs15mJpumW0kT/3EhTKqAJexT4JvXVgnY\nyscwSSV1AgMBAAECggEAG6v0i2cpeZH9pijnJgSaVOCFmteT2UB8QlUWw0to5hUh\n6XVwT7I6ozceSyge6N8hUHNMrGdg25KUWctXytnvzv2gEAPlXZSGqymJ7/Guhvbv\nCp9oCU+tBop6pRNy6WaLCY1nIx4t2b8GXyRoAv7W3hIk2LlADIb5GhhfbI8pAgRo\nNz97oK7nvBAiG/ZayQxUCEDbHhGYTpQ2Hbz8E4mPGE10Ruq3jOdZbzdINhyhHQ84\nF64iCw/HRtN+Oeqj7aSLCSY1O2w+nBAjATMNf5H1UzB904Rg+LiCYxIbn/R4we7b\n7DkOy+O7ZAQ3KHufOXsKG+7EQMb8TCjlFcXl+9BUAQKBgQC4wIgavIG7Kh+eCaQN\ng9GbwI0AmyJRsp1U462yErFkktiLf4h8XkLRIVkxHfbh3e79v0OqlxWBoylRBwic\n+qffue5+c3rKX09q0IL1A+7HZoz+yrZdU2qCIo9gNRTSVI2SW2OuHPHu9vwTCJis\nopQTEpmBj1fdTKsJCPgWj8Q3AQKBgQC4kUwy4jMrWJTYjX4eEN6iXE3gcxj/ZttK\ndyBcAYda6kv0SAy6Tn9BjV1ZrmCNpEMJGHYXPgj1rVvK/Kepw/IApRjnHPieBNop\n9zrb+6YBSdx+pw2Zr/Oh34TJstQ//ehGaBFlBPXjAtN7+lBXYWcNMLlLu539c/z6\njoVvES4CdQKBgQCOEObYAFqV7MdRREKVbebRqNgEPka+oeWfsFARnZQxLUY8xr3S\nPL2OiOFIBq2gc4NiNiA3XmRYQnnz57+0zn4maJg/PleOpImyLlJ1TCfhxzbmekSP\nMSS2mxK7PTYcoo4WnBXjfjh/tAaUMEkOfxn0LJpD6VD8SAdBNFdpKfYNAQKBgB2c\nIc9f/rmLgoWjXYJRToZZrJy/mlkPFUtDBUv9asupHvpXvML+6OeJWFqU4SSYH7EL\n3ZYo+6L+ZuWP1w4jQ2XbFr2tJi2jtaRZ53V3T9CRGvCuuD3ZvopPo6wAJpEFmQgC\nlhfQzenXgDo5lD4QgEnbcT63IMeSnhlMWBfTd8ApAoGBAKd5lyb3Ld9Yl9nkV1zV\nvufiCfVje1hmdh3f4od09/9v8M9XsxniwDimkvCUdKb1a0CM28vP++RdYOgwHuo4\nJ6o4ck9XTiYxRHppcxhdbgBfLKl99twf8ojhwoK8mDGkZdKepkiYr0z/tarurnbV\nhHYZumkQyWqo4W5/BgX1UvAk\n-----END PRIVATE KEY-----\n",
+  "client_email": "casino-bot@app-casino-456422.iam.gserviceaccount.com",
+  "client_id": "106048982053764298329",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/casino-bot%40app-casino-456422.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
